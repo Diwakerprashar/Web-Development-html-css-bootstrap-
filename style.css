@@ -1,0 +1,35 @@
+.container{
+  border: 0 solid black;
+}
+.row{
+  border: 0 solid green;
+}
+.col,.col-1,.col-2,.col-3,.col-4,.col-5,.col-6,.col-7,.col-8,.col-9,.col-10,.col-11,.col-12{
+  border: 0 solid red;
+}
+body{
+  background: grey;
+}
+#header{
+  background: orange;
+  padding: 10px 0 10px 10px;
+}
+#menu{
+  background: lightblue;
+  padding: 3px 10px
+}
+#menu ul{
+  list-style: none;
+}
+#menu ul li{
+  display: inline-block;
+}
+#sidebar{
+  background: pink;
+}
+#content{
+  background: lightgrey;
+}
+#footer{
+  background: orange;
+}
